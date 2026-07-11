@@ -1,0 +1,17 @@
+torch 
+torchvision 
+pillow 
+pandas 
+matplotlib
+ultralytics 
+pandas
+tensorflow 
+scikit-learn
+streamlit
+matplotlib
+opencv-python
+pyserial
+moviepy
+catboost
+xgboost
+
