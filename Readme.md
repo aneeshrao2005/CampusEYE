@@ -144,17 +144,14 @@ streamlit run app.py
 - **Secured 3rd Place among 22 teams** during the NIT Warangal Summer Internship Project Competition
 
 ---
+## Contributors
 
-# Developed By
+- Aneesh Rao S V
+- A. Charan Teja
+- Harsha Vardhan J
+- K. Jashwanth
 
-**Kallam Jashwanth**
-
-Summer Internship (AI/ML & IoT)
-
-National Institute of Technology Warangal
-
-Indian Institute of Technology Bhubaneswar
-
+Developed during the NIT Warangal Summer Internship Programme 2026.
 ---
 
 # If you like this project
